@@ -5,3 +5,6 @@
 [submodule "bitmexr"]
 	path = bitmexr
 	url = https://github.com/hfshr/bitmexr
+[submodule "jqbr"]
+	path = jqbr
+	url = https://github.com/hfshr/jqbr
